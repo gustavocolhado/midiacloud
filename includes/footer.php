@@ -9,10 +9,10 @@
                                     <h4 class="text-white">Cloud Hosting</h4>
                                     <ul class="nav flex-column">
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#">Hospedagem de Sites</a>
+                                            <a class="nav-link" href="/hospedagem">Hospedagem de Sites</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#">Revenda de Hospedagem</a>
+                                            <a class="nav-link" href="/revenda">Revenda de Hospedagem</a>
                                         </li>
                                     </ul>
                                 </div>

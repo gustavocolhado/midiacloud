@@ -7,7 +7,7 @@
                 <div class="row align-items-center justify-content-between">
                     <div class="col-lg-6 col-12">
                         <div class="spacing hero-content-wrap text-white">
-                            <h1 class="text-white">Serviços ideais para tudo o que você precisa na internet</h1>
+                            <h1 class="text-white">Hospedagem Grátis ? Isso mesmo!</h1>
                             <p class="lead">Conte com a credibilidade Midia para ter segurança e conquistar a confiança do seu cliente.</p>
                             <form action="#" class="domain-search-form mt-3">
                                 <div class="input-group">
