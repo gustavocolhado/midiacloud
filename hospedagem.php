@@ -98,7 +98,7 @@
                             </div>
                             <div class="card-body">
                                 <ul class="list-unstyled mb-4 pricing-feature-list">
-                                <li><span>Websites Ilimitados</span></li>
+                                <li><span>Websites Ilimitado</span></li>
                                     <li><span>SSL</span> Grátis</li>
                                     <li><span>Tráfego de Dados</span> Ilimitado</li>
                                     <li><span>25GB</span> Espaço de disco SSD</li>
